@@ -8,4 +8,4 @@ Voici le lien source : https://www.fil.univ-lille1.fr/~routier/enseignement/lice
 
 Vous y retrouverez les consignes et les diverses fonctionnalités a réalisé.
 
-Le projet a été fait a partir des consignes et réalisé en vanillaJS.
+Le projet a été fait a partir des consignes et réalisé en vanilla JS dans le but de monter en compétences dans la manipulation du DOM.
